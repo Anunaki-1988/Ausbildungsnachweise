@@ -1,5 +1,6 @@
 # Ausbildungsnachweise M.Krey
-![thumb1](https://user-images.githubusercontent.com/77609089/160318483-46f3010a-64a3-47d5-9537-295b9968a916.png)
-![thumb0](https://user-images.githubusercontent.com/77609089/160318496-272aaf26-3fcd-4d6d-8bd3-572ada80b9fa.png)
+![Nachweisdeckblatt](https://user-images.githubusercontent.com/77609089/160318712-980e71e9-2e2a-4204-87a3-4a99c9645319.jpg)
+
+
 
 Zum Download für Bildungsträger.
